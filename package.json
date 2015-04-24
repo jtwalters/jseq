@@ -1,0 +1,27 @@
+{
+  "name": "jseq",
+  "version": "1.0.0-alpha",
+  "description": "A CLI tool to Compare AST of JS files",
+  "main": "jseq.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jtwalters/jseq.git"
+  },
+  "keywords": [
+    "compare",
+    "diff",
+    "cli"
+  ],
+  "author": "Joel Walters",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jtwalters/jseq/issues"
+  },
+  "homepage": "https://github.com/jtwalters/jseq",
+  "dependencies": {
+    "compare-ast": "^0.2.0"
+  }
+}
